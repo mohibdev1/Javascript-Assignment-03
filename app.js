@@ -56,7 +56,7 @@ alert("Q5:b given condition for variable b is true");
 }
 // c:
 var c = 12;
-if (c++ === 13){
+if (c++ === 13){...} {
 alert(" Q5:c condition 1 is true");
 }
 if (c === 13){
@@ -165,9 +165,9 @@ if(temperature > 40) {
 } else if(temperature>30) {
     alert("The Weather today is Normal");
 } else if (temperature>20) {
-    alert("Today’s Weather is cool");
+    alert("Today's Weather is cool");
 } else if (temperature>10) {
-    alert("OMG! Today’s weather is so Cool.");
+    alert("OMG! Today's weather is so Cool.");
 } else {
        alert("Temperature is very low");
 }
