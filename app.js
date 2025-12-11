@@ -56,7 +56,7 @@ alert("Q5:b given condition for variable b is true");
 }
 // c:
 var c = 12;
-if (c++ === 13){...} {
+if (c++ === 13) {
 alert(" Q5:c condition 1 is true");
 }
 if (c === 13){
